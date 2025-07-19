@@ -1,5 +1,5 @@
 <h3> Olá, eu sou o Flávio! 😁 </h3>
-<h2> Sou estudante de desenvolvimento full stack 💻✏️</h2>
+<h2> Estudante de desenvolvimento full stack 💻✏️</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6"/>
@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-Framework-red?style=flat&logo=nestjs&logoColor=white"/>
 </p>
+
+---
+
+## 📚 Sobre mim
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
