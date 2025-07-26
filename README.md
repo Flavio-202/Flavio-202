@@ -46,7 +46,8 @@ Gosto de explorar tanto o back-end quanto o front-end, sempre buscando aprender 
 - Documentação de APIs com Swagger  
 - Controle de qualidade e padrão de código com ESLint  
 - Git e GitHub  
-- Desenvolvimento full stack (front-end e back-end)
+- Desenvolvimento full stack (front-end e back-end)  
+- **React:** Hooks, Props e Renderização condicional
 
 ---
 
