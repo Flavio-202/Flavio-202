@@ -22,6 +22,8 @@ Gosto de explorar tanto o back-end quanto o front-end, sempre buscando aprender 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Passport-JWT-34D058?style=flat&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-000000?style=flat&logo=typeorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
@@ -35,8 +37,21 @@ Gosto de explorar tanto o back-end quanto o front-end, sempre buscando aprender 
 - CRUD
 - Integração com bancos de dados
 - Lógica de programação
+- React Hooks e props
+- Renderização condicional em React
+- Padrão de projeto e organização com ESLint
+- Uso de ORM com TypeORM
 
 ---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavio-202&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-202&layout=compact&langs_count=7&theme=github_dark)
+
+---
+
 ## 🤝 Contatos
 - 📱 **(11) 96551-2176**
 - 📧 **flavioaguilar2001@gmail.com**
